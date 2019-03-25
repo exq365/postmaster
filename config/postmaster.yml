@@ -28,7 +28,7 @@ events:
       subject: Сброс Пароля
       template_path: templates/ru/password_reset.tpl
 - name: Documents Verified
-  key: system.document.verified
+  key: document.verified
   templates:
     EN:
       subject: Documents Verified
